@@ -1,3 +1,6 @@
+> **Note:** the [`dev/`](https://github.com/antoinekh/netbox-spatial-lens/tree/master/dev) folder of the Spatial Lens repository might be the key to all the work described below. It has the author's own development stack (a Compose override and `plugins.py` on top of netbox-docker) and explains how to load the NetBox demo data and fill it with `lens_enrich` and `lens_autoplace`, to get floors, racks and the world map like in the screenshots.
+
+
 # Installing the Spatial Lens Plugin on NetBox
 
 This document describes how to install and configure the Spatial Lens plugin on NetBox using Docker.
